@@ -1,2 +1,0 @@
-# LoginApp
-Created with CodeSandbox
